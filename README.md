@@ -18,3 +18,5 @@ C Programming Language
 Math Library (math.h) for angle-to-radian conversions and calculations.
 ## 📂 Project Files
 - [lap_time_analyzer.c](lap_time_analyzer.c) → main program code
+## ▶️ Try It Online
+Run this project instantly on Replit:(https://replit.com/@ashriyahkhandel/Lap-time-and-sector-analysis)
