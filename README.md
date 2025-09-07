@@ -16,3 +16,5 @@ Displays results with two decimal precision (e.g., 12.03 sec).
 C Programming Language
 
 Math Library (math.h) for angle-to-radian conversions and calculations.
+## 📂 Project Files
+- [lap_time_analyzer.c](lap_time_analyzer.c) → main program code
